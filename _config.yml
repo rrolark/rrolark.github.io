@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rolark"
+title                    : "Rowan Rolark"
 title_separator          : "-"
-name                     : &name "Rolark"
-description              : &description "Rolark Academic Page"
+name                     : &name "Rowan Rolark"
+description              : &description "My Academic Page"
 url                      : https://rrolark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rrolark/rrolark.github.io"
@@ -22,7 +22,7 @@ repository               : "rrolark/rrolark.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rolark"
+  name             : "Rowan olark"
   pronouns         : "they/them"
   bio              : "PhD Student & 3D Printer"
   location         : "Chicago, IL ⇌ Honolulu, HI"
