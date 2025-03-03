@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Rowan Rolark is a Ph.D. Candidate at Northwestern University, exploring the intricacies of metal additive manufacturing. Specializing in directed energy deposition (DED) techniques, they investigate how changes in temperature and different alloy combinations impact the quality of printed metals.
 
 I earned my B.S. in Mechanical Engineering at the University of Hawai‘i at Mānoa where I first became fascinated by 3D printing. My journey began when I purchased my first $200 hobbyist printer as a creative outlet. Since then, I've immersed myself in a wide range of 3D printing technologies and materials, ranging from fused deposition modeling (FDM) for plastics; stereolithography (SLA), digital light projection (DLP), projection microstereolithography (PµSL), and computed axial lithography (CAL) for resins; and directed energy deposition (DED) for metals, with more to come!
