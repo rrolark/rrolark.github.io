@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Rowan and your 3D printing expert."
+title: "Hi, I'm Rowan and Your 3D Printing Expert:"
 author_profile: true
 redirect_from: 
   - /about/
