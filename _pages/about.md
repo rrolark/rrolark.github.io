@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is my new website! Welcome, hehe.
+Hi, I'm Rowan and  is a Ph.D. Candidate Hi! This is my new website! Welcome, hehe.
 
 A data-driven personal website
 ======
