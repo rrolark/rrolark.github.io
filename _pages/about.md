@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the header to my new website B^)"
+title: "Hi! I'm Rowan and I am a 3D printing expert!"
 author_profile: true
 redirect_from: 
   - /about/
