@@ -8,4 +8,4 @@ tags:
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7312851233101201408" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7312851233101201408" height=636 width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
